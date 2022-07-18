@@ -1,4 +1,4 @@
-module github.com/1lann/krist-miner
+module github.com/viluon/krist-miner
 
 go 1.13
 
